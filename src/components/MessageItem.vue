@@ -40,10 +40,10 @@ export default {
 }
 .error {
   background: pink;
-  color: red;
+  color: rgb(207, 104, 104);
 }
 .success {
-  background: green;
+  background: rgb(78, 126, 78);
   color: white;
 }
 .info {
